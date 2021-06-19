@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>aidenp.dev/</loc>
+    <loc>https://aidenp.dev/</loc>
     <lastmod>2021-06-19T13:59:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>aidenp.dev/posts/first-post/</loc>
+    <loc>https://aidenp.dev/posts/first-post/</loc>
     <lastmod>2021-06-19T13:59:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>aidenp.dev/posts/</loc>
+    <loc>https://aidenp.dev/posts/</loc>
     <lastmod>2021-06-19T13:59:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>aidenp.dev/blog/</loc>
+    <loc>https://aidenp.dev/blog/</loc>
   </url>
   
   <url>
-    <loc>aidenp.dev/series/</loc>
+    <loc>https://aidenp.dev/series/</loc>
   </url>
   
   <url>
-    <loc>aidenp.dev/tags/</loc>
+    <loc>https://aidenp.dev/tags/</loc>
   </url>
   
 </urlset>
