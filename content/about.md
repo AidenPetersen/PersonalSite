@@ -21,7 +21,7 @@ Here's a bunch of the thing's I've spent my time doing:
  - **Web Developer** - Iowa State IT - May 2021 - Present
    - Primarily write web applications using php's Laravel and Vue.js.
    - Learned many importand skills like programming in a professional 
-     environment and using important version control and productivity tools.
+     environment, and using important version control and productivity tools.
  - **Competitive Programming** - ICPC - Dec 2020 - Present
 
 ### Tools
