@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aiden Petersen</title>
-    <link>https://aidenp.dev/</link>
-    <description>Recent content on Aiden Petersen</description>
+    <title>hugo on Aiden Petersen</title>
+    <link>https://aidenp.dev/tags/hugo/</link>
+    <description>Recent content in hugo on Aiden Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 22:01:33 -0500</lastBuildDate><atom:link href="https://aidenp.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jun 2021 22:01:33 -0500</lastBuildDate><atom:link href="https://aidenp.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website!</title>
       <link>https://aidenp.dev/posts/new-website/</link>
@@ -17,17 +17,6 @@
       <description>Hello!
 I just made a website. This is the first website that I’ve hosted on the internet, very exciting! I decided to do it by renting a virtual machine from Digital Ocean and installing Nginx on it. I’m using go’s Hugo static site generator because I found a nice theme that I wanted to use, and I didn’t need this site to be too complex.
 Because I now have a server and a site, I’m planning on making a websocket using Elixir and Cowboy, then serve the data to the front and verify a game like chess or checkers.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://aidenp.dev/about/</link>
-      <pubDate>Sat, 19 Jun 2021 16:02:17 -0500</pubDate>
-      
-      <guid>https://aidenp.dev/about/</guid>
-      <description>My name is Aiden Petersen, and I&amp;rsquo;m a computer engineering and math major at Iowa State University.
-I originally started programming in Java in my senior year of high school for an AP Computer Science class. I enjoyed it so much that I decided to do a CS-related major in college. I learned that solving problems can be fun, something that I didn&amp;rsquo;t experience before.
-I learned a lot after high school due to a newfound appreciation for programming, but recently I&amp;rsquo;ve taken an interest in functional programming.</description>
     </item>
     
   </channel>

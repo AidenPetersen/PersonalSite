@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epic on Aiden Petersen</title>
+    <link>https://aidenp.dev/tags/epic/</link>
+    <description>Recent content in epic on Aiden Petersen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Jun 2021 15:51:10 -0500</lastBuildDate><atom:link href="https://aidenp.dev/tags/epic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://aidenp.dev/posts/test/</link>
+      <pubDate>Sat, 19 Jun 2021 15:51:10 -0500</pubDate>
+      
+      <guid>https://aidenp.dev/posts/test/</guid>
+      <description>hello world  pog  </description>
+    </item>
+    
+  </channel>
+</rss>

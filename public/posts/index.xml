@@ -6,17 +6,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 19 Jun 2021 13:59:17 -0500</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 22:01:33 -0500</lastBuildDate>
         <atom:link href="https://aidenp.dev/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>First Post</title>
-            <link>https://aidenp.dev/posts/first-post/</link>
-            <pubDate>Sat, 19 Jun 2021 13:59:17 -0500</pubDate>
+            <title>New Website!</title>
+            <link>https://aidenp.dev/posts/new-website/</link>
+            <pubDate>Sat, 19 Jun 2021 22:01:33 -0500</pubDate>
             
-            <guid>https://aidenp.dev/posts/first-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>https://aidenp.dev/posts/new-website/</guid>
+            <description>Hello!
+I just made a website. This is the first website that I’ve hosted on the internet, very exciting! I decided to do it by renting a virtual machine from Digital Ocean and installing Nginx on it. I’m using go’s Hugo static site generator because I found a nice theme that I wanted to use, and I didn’t need this site to be too complex.
+Because I now have a server and a site, I’m planning on making a websocket using Elixir and Cowboy, then serve the data to the front and verify a game like chess or checkers.</description>
+            <content type="html"><![CDATA[<p>Hello!</p>
+<p>I just made a website. This is the first website that I’ve hosted on the internet, very exciting! I decided to do it by renting a virtual machine from Digital Ocean and installing Nginx on it. I’m using go’s Hugo static site generator because I found a nice <a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng">theme</a> that I wanted to use, and I didn’t need this site to be too complex.</p>
+<p>Because I now have a server and a site, I’m planning on making a websocket using Elixir and Cowboy, then serve the data to the front and verify a game like chess or checkers. I’ll probably use a genserver to maintain state; then, I won’t have to worry about setting up a database. I think it will be cool if I can get it working.</p>
+]]></content>
         </item>
         
     </channel>

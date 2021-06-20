@@ -4,17 +4,42 @@
   
   <url>
     <loc>https://aidenp.dev/</loc>
-    <lastmod>2021-06-19T13:59:17-05:00</lastmod>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aidenp.dev/posts/first-post/</loc>
-    <lastmod>2021-06-19T13:59:17-05:00</lastmod>
+    <loc>https://aidenp.dev/tags/digitalocean/</loc>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aidenp.dev/tags/hugo/</loc>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aidenp.dev/posts/new-website/</loc>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aidenp.dev/tags/nginx/</loc>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://aidenp.dev/posts/</loc>
-    <lastmod>2021-06-19T13:59:17-05:00</lastmod>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aidenp.dev/tags/</loc>
+    <lastmod>2021-06-19T22:01:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aidenp.dev/about/</loc>
+    <lastmod>2021-06-19T16:02:17-05:00</lastmod>
   </url>
   
   <url>
@@ -23,10 +48,6 @@
   
   <url>
     <loc>https://aidenp.dev/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aidenp.dev/tags/</loc>
   </url>
   
 </urlset>
