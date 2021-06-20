@@ -26,7 +26,7 @@ Here's a bunch of the thing's I've spent my time doing:
 
 ### Tools
  - **Languages** - Java, C/C++, Python, Haskell, Elixir, SQL (MySQL), PHP, Verilog
- - **Techonologies** - Linux, Git, Vue.js, Laravel, Django
+ - **Technologies** - Linux, Git, Vue.js, Laravel, Django, Jira
 
 ## What I'm Doing Right Now
 
